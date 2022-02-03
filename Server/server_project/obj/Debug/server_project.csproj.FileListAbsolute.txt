@@ -1,0 +1,180 @@
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.Form1.resources
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\gunes\Documents\501\CS408\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\project_408\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\project_408\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Desktop\project_408\project_408\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\Berke Üçvet\Desktop\project_408\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\Ceyda\Desktop\project_408_rev2\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\Ceyda\Desktop\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\Ceyda\Desktop\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\project_408_rev2\project_408_rev2\project_408\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Downloads\cs408_client_server_v3\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\Berke Üçvet\Desktop\cs408proje\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\Ceyda\Desktop\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\version_3.2\server_project_commented_rev2\server_project\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\23435_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Desktop\Fall 20-21\CS408\Project\Step1\derinkaradeniz_Karadeniz_Derin_Step1\Server\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step1\Server\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Downloads\Server_step2_updated\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Downloads\Server_step2_updated\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Downloads\Server_step2_updated\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Downloads\Server_step2_updated\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karad\Downloads\Server_step2_updated\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Downloads\Server_step2_updated\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Downloads\Server_step2-3\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Downloads\Server_step2-3\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Downloads\Server_step2-3\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\bin\Debug\server_project.exe.config
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\bin\Debug\server_project.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\bin\Debug\server_project.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.Database.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Server\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.pdb
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\bin\Debug\server_project.exe.config
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\bin\Debug\server_project.exe
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\bin\Debug\server_project.pdb
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.csprojResolveAssemblyReference.cache
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.Database.resources
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.Properties.Resources.resources
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.csproj.GenerateResource.Cache
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.exe
+C:\Users\karad\Desktop\project408_son\Server_step3_uncommented\server_project\obj\Debug\server_project.pdb

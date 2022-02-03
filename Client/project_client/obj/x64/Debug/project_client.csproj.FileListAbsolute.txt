@@ -1,0 +1,27 @@
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\bin\x64\Debug\project_client.exe.config
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\bin\x64\Debug\project_client.exe
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\bin\x64\Debug\project_client.pdb
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.csprojResolveAssemblyReference.cache
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.Form1.resources
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.Properties.Resources.resources
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.csproj.GenerateResource.Cache
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.exe
+C:\Users\karad\Desktop\project408_son\Client_step3_v3\project_client\obj\x64\Debug\project_client.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\bin\x64\Debug\project_client.exe.config
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\bin\x64\Debug\project_client.exe
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\bin\x64\Debug\project_client.pdb
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.csprojResolveAssemblyReference.cache
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.Form1.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.Properties.Resources.resources
+C:\Users\eding\Documents\501\CS408\Project\edinguso_Guso_Edin_Step23\Client\project_client\obj\x64\Debug\project_client.csproj.GenerateResource.Cache
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\bin\x64\Debug\project_client.exe.config
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.exe
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.pdb
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\bin\x64\Debug\project_client.exe
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\bin\x64\Debug\project_client.pdb
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.csprojResolveAssemblyReference.cache
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.Form1.resources
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.Properties.Resources.resources
+D:\CEYDA\DERS\CS 408\project_408\Step 2-3\Client\project_client\obj\x64\Debug\project_client.csproj.GenerateResource.Cache
